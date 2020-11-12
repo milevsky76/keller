@@ -1,0 +1,1 @@
+<img src="<?=$path;?>assets/images/logo/logo-light.png" alt="Site Logo">

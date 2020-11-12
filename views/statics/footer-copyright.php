@@ -1,0 +1,1 @@
+<p class="footer-copyright text-center">Copyright &copy; 2019 <a href="https://hasthemes.com/">Hasthemes</a> All Rights Reserved.</p>

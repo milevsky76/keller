@@ -1,0 +1,1 @@
+<p>Subscribe to Lawson to get all latest Job, Resume, Company Listing & Blog post to stay update.</p>
